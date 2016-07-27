@@ -33,6 +33,4 @@ app.get('/:date', function(req, res) {
 })
 
 
-app.listen(port, function() {
-    console.log("Listening on port " + port)
-})
+app.listen(process.env.PORT || port)
