@@ -8,5 +8,9 @@ As part of [FreeCodeCamp's curriculum](https://www.freecodecamp.com/challenges/t
 2. If it does, it returns both the Unix timestamp and the natural language form of that date.
 3. If it does not contain a date or Unix timestamp, it returns null for those properties.
 
+### Examples
+* ```https://ct-timestamp.herokuapp.com/1241248123```
+* ```https://ct-timestamp.herokuapp.com/May%202,%202009```
+
 ### Live Site
 Coming soon
